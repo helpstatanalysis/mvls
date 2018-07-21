@@ -1,0 +1,12 @@
+Package: mvls
+Type: Package
+Title: Missing Values in Longitudinal Studies
+Version: 1.1
+Author: Lorenzo Querci
+Maintainer: Lorenzo Querci <lorenzo.querci@studio.unibo.it>
+Description: It is a machine learning-based approach to impute data in logitudinal studies.
+License: Apache 2.0 
+Depends: R (>= 3.0.1), randomForestSRC, ggplot2, zoo, reshape2, mice, pvclust, mclust, fpc, cluster
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
